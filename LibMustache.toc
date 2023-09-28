@@ -1,0 +1,10 @@
+## Interface: 11404
+## Title: LibMustache
+## Notes: LibMustache is a Lua full-spec mustache parser and bytecode-based renderer.
+## Author: Mikinho
+## X-Orignal-Author: Written by Cosmin Apreutesei. Public Domain.
+## Version: @project-version@
+## X-Category: Library
+## X-License: Public Domain
+
+LibMustache.xml

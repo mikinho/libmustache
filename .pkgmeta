@@ -1,0 +1,5 @@
+package-as: LibMustache
+
+ignore:
+  - README.md
+  - LibMustache.toc
